@@ -1,3 +1,2 @@
-# CadastroDeProdutos
-
-CRUD em Angular 9
+### CadastroDeProdutos
+### App Simples cadastro de Produtos utilizando o Framework Angular - CRUD em Angular 
